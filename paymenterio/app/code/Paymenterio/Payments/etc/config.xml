@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <paymenterio>
+                <active>1</active>
+                <title>Płatności Paymenterio</title>
+                <payment_action>true</payment_action>
+                <model>Paymenterio\Payments\Model\PaymenterioPayments</model>
+                <group>paymenterio</group>
+            </paymenterio>
+        </payment>
+    </default>
+</config>
