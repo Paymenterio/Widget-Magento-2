@@ -1,4 +1,4 @@
-# Magento 2 Paymenterio payment module for WooCommerce plugin.
+# Magento 2 Paymenterio payment module.
 =====================
 
 
